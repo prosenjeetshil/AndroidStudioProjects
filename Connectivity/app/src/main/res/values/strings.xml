@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Connectivity</string>
+    <string name="wifi_enable_disable">WIFI Enable/Disable</string>
+    <string name="bluetooth_enable_disable">Bluetooth Enable/Disable</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical_15_48_SharedPreferences</string>
+    <string name="email_id">Email Id :</string>
+    <string name="password">Password :</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="sign_in">Sign In</string>
+    <string name="clear">Clear</string>
+    <string name="get_data">Get Data</string>
+    <string name="value_stored">Value stored in shared preference</string>
+</resources>

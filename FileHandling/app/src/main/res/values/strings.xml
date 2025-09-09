@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FileHandling</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="write">Write</string>
+    <string name="read">Read</string>
+    <string name="clear">Clear</string>
+    <string name="delete">Delete</string>
+    <string name="no_file_content">No file content</string>
+</resources>
